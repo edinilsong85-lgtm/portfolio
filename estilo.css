@@ -11,8 +11,6 @@ font-size: 16px;
 margin: 0;
 padding: 10px;
 width: 100%;
-height: 100vh; /* Garante que o fundo tenha a altura exata da tela*/
-/*overflow: hidden;Remove as barras de rolagem e bloqueia o scroll*/
 }
 
 .container {
