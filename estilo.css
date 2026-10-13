@@ -17,14 +17,6 @@ width: 100%;
     display: flex;
     flex-direction: column;
 }
-
-/*Para tablet (telas a partir de 768px)*/
-@media (min-width: 768px) {
-    .container {
-        flex-direction: row;/*itens lado a lado no tablet*/
-    }
-}
-
 /*para desktop (telas a partir de 1024px)*/
 @media (min-width: 1024px) {
     body {
