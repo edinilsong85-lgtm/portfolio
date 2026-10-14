@@ -8,7 +8,7 @@ background-color: #2b0202;
 color: #f6f6f6;
 box-sizing: border-box;
 font-size: 16px;
-margin: 0;
+margin: 10px;
 padding: 10px;
 width: 100%;
 }
@@ -16,13 +16,6 @@ width: 100%;
 .container {
     display: flex;
     flex-direction: column;
-}
-/*para desktop (telas a partir de 1024px)*/
-/* @media (min-width: 1024px) {
-    body {
-        max-width: 1200px;
-        margin: 0 auto;  Centraliza a página no monitor */
-    }
 }
 
 .apresentacao {
